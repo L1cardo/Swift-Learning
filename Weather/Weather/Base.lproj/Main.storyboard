@@ -194,7 +194,7 @@
                                     <constraint firstAttribute="width" constant="270" id="UAC-z6-cEz"/>
                                 </constraints>
                                 <string key="text">城市名称格式：
-1.  城市名中文：如 北京，北京市 2. 城市名拼音：如  Beijing，beijing
+1.  城市名中文：如 北京，北京市 2. 城市名英文：如  Beijing，beijing
 3. 城市经纬度：如 116.40,39.9
 4. 城市IP地址：如 60.194.130.1</string>
                                 <fontDescription key="fontDescription" type="system" weight="thin" pointSize="17"/>
